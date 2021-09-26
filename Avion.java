@@ -18,7 +18,7 @@ public class Avion {
            }else if ((5 < i) && (i <= 7)){
                Destinatie = "Speciala";
            }else {
-               Destinatie = "Nu sa gasit !";
+               Destinatie = "Nu este gasit !";
            }
         }
     void verSistemDePropulsie(){
