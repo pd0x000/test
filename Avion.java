@@ -3,7 +3,6 @@ import java.util.Arrays;
 public class Avion {
     String Modele[] = {"Boeing 747", "AN-2", "Airbus A300", "MIG-21", "F-16", "SU-27", "RQ-4", "Helios" };
     String Model;
-    int viteza;
     String Destinatie;
     String SistemeDePropulsie[] = {"Reactie", "Elice"};
     String SistemDePropulsie;
